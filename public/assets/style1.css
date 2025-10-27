@@ -1,0 +1,20 @@
+    ul.languages {
+        list-style-type: square;
+        padding: 10px;
+        background-color: #f4f4f4;
+        border-radius: 8px;
+    }
+    ul.languages li {
+        padding: 5px;
+        color: #333;
+    }
+    ul.frameworks {
+        list-style-type: circle;
+        padding: 10px;
+        background-color: #eef7ff;
+        border-radius: 8px;
+    }
+    ul.frameworks li {
+        padding: 5px;
+        color: #2c3e50;
+    }
