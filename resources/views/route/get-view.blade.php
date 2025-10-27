@@ -1,0 +1,1 @@
+<h1>GET VIEW BLADE</h1>
